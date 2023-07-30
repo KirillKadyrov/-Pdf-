@@ -1,0 +1,184 @@
+html {
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+.header {
+  width: 752px;
+  height: 237px;
+  background-color: RGBA(45, 112, 83, 1);
+}
+
+img.PicSpec {
+  position: fixed;
+  width: 144px;
+  height: 144px;
+  top: 45px;
+  left: 36px;
+}
+
+div.nameOFmaster {
+  position: fixed;
+  width: 134px;
+  height: 131px;
+  left: 237px;
+  top: 52px;
+  color: #ffffff;
+
+  font-size: 30px;
+}
+
+.Cabinet {
+  position: fixed;
+  width: 752px;
+  height: 470px;
+  top: 230px;
+  left: 8px;
+}
+
+.Setka {
+  position: fixed;
+  width: 752px;
+  height: 470px;
+  opacity: 0.4;
+  top: 210px;
+  left: 8px;
+}
+
+.Click {
+  position: fixed;
+  top: 608px;
+  left: 249px;
+
+  font-size: 24px;
+  text-align: center;
+  color: #ffffff;
+
+  background-color: RGBA(203, 146, 35, 1);
+  width: 344px;
+  height: 77px;
+
+  /**/
+}
+
+.MasterSart {
+  position: fixed;
+  left: 44px;
+  top: 774px;
+}
+
+.nameAndPrename {
+  position: fixed;
+  left: 366px;
+  top: 835px;
+
+  font-family: "adobeinvisfont";
+  font-size: 36px;
+  color: black;
+}
+
+.specializ {
+  position: fixed;
+  width: 245px;
+  height: 50px;
+  top: 891px;
+  left: 364px;
+
+  font-size: 24px;
+  color: black;
+}
+
+.History {
+  position: fixed;
+  width: 590px;
+  height: 166px;
+  top: 1081px;
+  left: 44px;
+
+  font-size: 24px;
+  color: black;
+}
+
+.reasons {
+  position: fixed;
+  width: 545px;
+  height: 32px;
+  top: 1293px;
+  left: 44px;
+
+  font-size: 36px;
+  color: black;
+}
+
+.spisok {
+  position: fixed;
+  width: 256px;
+  height: 190px;
+  top: 1368px;
+
+  font-size: 24px;
+  text-align: left;
+  color: black;
+}
+
+.Click2 {
+  position: fixed;
+  width: 344px;
+  height: 77px;
+  top: 1630px;
+  left: 262px;
+
+  font-size: 24px;
+  color: #ffffff;
+  text-align: center;
+
+  background-color: RGBA(203, 146, 35, 1);
+}
+
+.oval2 {
+  position: fixed;
+  width: 99px;
+  height: 99px;
+  top: 1753px;
+  left: 43px;
+}
+
+.Bord {
+  position: fixed;
+  width: 752px;
+  height: 156px;
+  top: 1724px;
+  left: -1px;
+}
+
+.Adress {
+  position: fixed;
+  width: 199px;
+  height: 17px;
+  top: 1828px;
+  left: 325px;
+
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.phone {
+  position: fixed;
+  height: 15px;
+  top: 1782px;
+  left: 570px;
+
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.email {
+  position: fixed;
+  width: 144px;
+  height: 17px;
+  top: 1824px;
+  left: 562px;
+
+  font-size: 18px;
+  color: #ffffff;
+}
